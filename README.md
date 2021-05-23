@@ -1,4 +1,7 @@
-### Hi there 👋
+![Hi, I'm Marti✨ FrontEnd dev in the making👩🏽‍💻](https://github.com/maroctt/maroctt/raw/main/images/githubBanner854px.gif)
+
+
+
 
 <!--
 **maroctt/maroctt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
